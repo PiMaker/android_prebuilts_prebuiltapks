@@ -1,3 +1,7 @@
+# Fork
+
+This fork uses the NanoDroid beta-80 version of GmsCore to fix Google Account login.
+
 # Prebuilt APKs
 
 This is a collection of FOSS APKs, coupled with the respective Android.mk for an
